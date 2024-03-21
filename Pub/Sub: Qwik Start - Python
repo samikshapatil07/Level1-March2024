@@ -1,0 +1,6 @@
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/PubSub%20Qwik%20Start%20Python/quicklabgsp094.sh
+
+sudo chmod +x quicklabgsp094.sh
+
+./quicklabgsp094.sh
+
